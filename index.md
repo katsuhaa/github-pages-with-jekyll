@@ -1,3 +1,5 @@
-# Welcome to my blog
+# Welcome to KATSUHAA Blog
 
-I'm glad you are here. I plan to talk about ...
+GitHubの練習中
+これを編集しろってボットから司令がきたので編集してみた
+
